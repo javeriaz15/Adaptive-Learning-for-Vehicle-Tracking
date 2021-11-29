@@ -13,7 +13,7 @@ No training data for object detection
 - Creating a feature vector to store boundary points and centroid of moving object
 - Triangulating using boundary points and centroid to implement polygon segmentation on moving object
 - Generating graph using boundary points and centroid to store the previous positions of moving object
+### Shape Analysis for Object Classification
+- Adding more feature using shape analysis
 ### Object Tracking
-Coming Soon
-### Object Classification
 Coming Soon
