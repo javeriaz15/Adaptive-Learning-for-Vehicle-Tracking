@@ -1,4 +1,4 @@
-# Adaptive Learning for Vehicle Detection and Image Instance Segmentation
+# Adaptive Computer Vision Algorithm for Real Time Moving Vehicle Detection and Instance Segmentation
 **Project**: This project describes an adaptive learning approach to detect objects when there is no training data by applying computation geometry and engineering physics. 
 ## Problem
 No training data for object detection
@@ -13,3 +13,7 @@ No training data for object detection
 - Creating a feature vector to store boundary points and centroid of moving object
 - Triangulating using boundary points and centroid to implement polygon segmentation on moving object
 - Generating graph using boundary points and centroid to store the previous positions of moving object
+### Object Tracking
+Coming Soon
+### Object Classification
+Coming Soon
