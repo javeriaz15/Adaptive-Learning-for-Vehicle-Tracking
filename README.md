@@ -17,6 +17,6 @@ No training data for object detection</br>
 ### Shape Analysis for Object Classification
 - Generating the feature vector of the moving object
 - implementing meta learning for one shot learning for object classification
-- comparing results with siamese meural network
+- comparing results with Siamese Neural Network
 ### Object Tracking
 - Applying kalman filter for object tracking
