@@ -1,5 +1,5 @@
 ## Adaptive Computer Vision Algorithm for Real Time Moving Vehicle Detection and Segmentation
-**Project**: This project describes an adaptive learning approach to detect, segment, measure and classify objects when there is no training data by applying computation geometry and engineering physics. 
+**Project**: This project describes an adaptive learning approach to detect, segment, measure and track objects in outdoors when there is no training data by applying computation geometry, topology and engineering physics. 
 ## Problem
 No training data for object detection</br>
 **Assumption**: Stationary camera
