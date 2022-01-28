@@ -4,7 +4,7 @@
 No training data for object detection</br>
 **Assumption**: Stationary camera at traffic signals and buildings
 ## Solution
-### Adaptive Learning
+### Adaptive Object Detection
 - Involves frame subtraction to separate background and foreground
 - background and foreground detection using Gaussian Mixture Model
 - Applying morphological operations and filters to remove noise 
@@ -14,7 +14,7 @@ No training data for object detection</br>
 - Creating a feature vector to store boundary points and centroid of moving object
 - Triangulating using boundary points and centroid to implement polygon segmentation on moving object
 - Generating graph using boundary points and centroid to store the previous positions of moving object
-### Shape Analysis for Object Classification
+### Shape Analysis for Object Classification and Recognition
 - Generating the feature vector of the moving object
 - implementing meta learning for one shot learning for object classification
 - comparing results with Siamese Neural Network
